@@ -8,5 +8,8 @@ The purpose of this project is to predict if it will rain tomorrow. The data inc
 • A neural network is trained with 3 hidden layers and 2 dropout layers. <br>
 • Overall 80% accuracy is accieved. (F1=0.73)
 
+# Performance:
+![](F1Score.PNG?raw=true)
+
 # How to run:
 Please check rainPrediction.ipynb file.
