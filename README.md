@@ -6,5 +6,5 @@ The purpose of this project is to predict if it will rain tomorrow. The data inc
 • Feature selection is performed using Pearson's correlation. <br>
 • SMOTE is used to over sample minority class. <br>
 • A neural network is trained with 3 hidden layers and 2 dropout layers. <br>
-• Overall 80% accuracy is accieved. 
+• Overall 80% accuracy is accieved. (F1=0.73)
 
