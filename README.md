@@ -9,7 +9,6 @@ The purpose of this project is to predict if it will rain tomorrow. The data inc
 • Overall 80% accuracy is achieved. (F1=0.73)
 
 # Performance:
-![](correlation.PNG)
 ![](F1Score.PNG?raw=true)
 ![](performance.PNG)
 # How to run:
